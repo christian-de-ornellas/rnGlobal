@@ -1,0 +1,28 @@
+const ResendSchema = {
+  name: 'Resend',
+  primaryKey: 'os',
+  properties: {
+    os: 'string',
+    photoOne: 'string',
+    photoTwo: 'string',
+    photoThree: 'string',
+    photoFour: 'string',
+    photoFive: 'string',
+    photoSix: 'string',
+    photoSeven: 'string',
+    photoEigth: 'string',
+    photoNine: 'string',
+    photoTen: 'string',
+    photoOneUri: 'string',
+    photoTwoUri: 'string',
+    photoThreeUri: 'string',
+    photoFourUri: 'string',
+    photoFiveUri: 'string',
+    photoSixUri: 'string',
+    photoSevenUri: 'string',
+    photoEigthUri: 'string',
+    photoNineUri: 'string',
+    photoTenUri: 'string',
+  },
+};
+export default ResendSchema;
